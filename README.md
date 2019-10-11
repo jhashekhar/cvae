@@ -9,6 +9,7 @@ Conditional Variational Autoencoder implementation on MNIST, CIFAR-10.
 
 ## Results
 MNIST sample generated after training the autoencoder for 20 epochs.
+
 ![image generated after 20 epochs](https://raw.githubusercontent.com/jhashekhar/cvae/master/images/mnist_sample_epoch_20.png)
 
 ## References
