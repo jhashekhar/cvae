@@ -1,5 +1,6 @@
 ## cvae
-Conditional Variational Autoencoder implementation on MNIST, CIFAR-10.
+
+Variational Autoencoder implementation on MNIST, CIFAR-10.
 
 ## Dependencies
 
